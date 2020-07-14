@@ -23,3 +23,5 @@ https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-lear
 https://youtu.be/_KGfuDiWIq8
 
 https://youtu.be/L_xBe7MbPwk
+
+ https://www.youtube.com/watch?v=pYxNSUDSFH4
