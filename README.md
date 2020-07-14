@@ -16,6 +16,10 @@ https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303b
 
 https://pmirla.github.io/2016/07/20/maximum-likelihood-explanation.html
 
+https://machinelearningmastery.com/logistic-regression-with-maximum-likelihood-estimation/
+
+https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/
+
 https://youtu.be/_KGfuDiWIq8
 
 https://youtu.be/L_xBe7MbPwk
